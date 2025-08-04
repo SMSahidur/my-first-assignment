@@ -45,7 +45,7 @@ nav{
 }
 header{
 
-background-image: url(../images/Hero-bg.png);
+background-image: url(./images/Hero-bg.png);
 background-size: cover;
 height: 698px;
 }
